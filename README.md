@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sullivansue
-- 👀 I’m interested in ... 大学小朋友一个
-- 🌱 I’m currently learning ... 数字媒体技术
-- 💞️ I’m looking to collaborate on ... 游戏设计
-- 📫 How to reach me ... 邮箱sulli304@163.com
+- 👀 I’m interested in ... GAMEDEV/BASS
+- 🌱 I’m currently learning ... digital media technology
+- 💞️ I’m looking to collaborate on ... game design
+- 📫 How to reach me ... sulli304@163.com
 
 <!---
 Sullivansue/Sullivansue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
